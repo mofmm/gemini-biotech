@@ -1,0 +1,6 @@
+{
+  "name": "ALK Kinase Macrocycle & Acyclic ChemExplorer",
+  "description": "Comprehensive academic and patent literature explorer, SAR profiler, and data preparation platform for macrocyclic and acyclic compounds in the crizotinib and lorlatinib series.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
